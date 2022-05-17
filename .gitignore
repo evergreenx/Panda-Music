@@ -21,6 +21,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
+/.history
 
 # Android/IntelliJ
 #
@@ -36,6 +37,7 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
+.prettierignore
 
 # BUCK
 buck-out/
