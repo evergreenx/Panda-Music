@@ -20,7 +20,7 @@ export const FONTS = {
   semiBold: "InterSemiBold",
   medium: "InterMedium",
   regular: "InterRegular",
-  light: "InterLight",
+  thin: "InterLight",
 };
 
 export const SHADOWS = {

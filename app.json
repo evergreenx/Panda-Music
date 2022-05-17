@@ -3,8 +3,6 @@
     "name": "panda-music",
     "slug": "panda-music",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
