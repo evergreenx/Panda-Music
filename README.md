@@ -19,12 +19,11 @@ Panda music is a music app with focus mainly on user experience...
 
 ## Screenshots
 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![image](https://res.cloudinary.com/evergreenx/image/upload/v1652810576/Panda_Music_1_hbo9mf.jpg)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
-I used `react native`, `css` , `react navigation`, `lottie for animation`, `firbase for authencation`
+I used `react native`, `css` , `react navigation`, `lottie` for animation, `firbase` for authencation
 
 ## Setup
 - download or clone the repository
