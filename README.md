@@ -1,5 +1,5 @@
 # Project Title
-The Panda MUsic
+Panda MUsic
 
 ## Demo link:
 -Coming soon 
@@ -34,7 +34,7 @@ I used `react native`, `css` , `react navigation`, `lottie` for animation, `firb
 I adopted the `reusable components` method for the app and also added comment to explain my thinking process...
 
 ## Status
-[name of project] is still in progress. `Version 1` will be out soon.
+Panda Music is still in progress. `Version 1` will be out soon.
 
 ## Credits
 List of contriubutors:
