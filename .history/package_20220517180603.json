@@ -24,11 +24,9 @@
     "react-native-web": "0.17.7"
   },
   "husky": {
-  
-
-     "hooks": {
-    "pre-commit": "prettier --write . && git add -A ."
-  }
+    "hooks": {
+      "pre-commit": "yarn format && git add  ."
+    }
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
